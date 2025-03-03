@@ -1,0 +1,73 @@
+{
+  "name": "Sohrab Yavarzadeh",
+  "title": "Senior Python Backend Engineer | Cloud & API Specialist",
+  "contact": {
+    "email": "sohrabyavarzadeh@gmail.com",
+    "location": "Istanbul, 34 562, Turkey",
+    "phone": "+90 535 483 7308",
+    "linkedin": "https://www.linkedin.com/in/sohrab-yavarzadeh/",
+    "github": "https://github.com/oraclesohrab/"
+  },
+  "summary": "Results-driven Senior Python Backend Engineer with 8+ years of experience designing and deploying high-performance, scalable, and secure backend systems. Proven expertise in **cloud computing, distributed systems, API development**, and **automation**. Passionate about **reducing infrastructure costs, optimizing API performance, and scaling systems** to support **millions of users**. Strong **leadership skills** in driving Agile teams, ensuring **CI/CD best practices**, and leveraging **AWS serverless technologies** for cost-effective, scalable applications.",
+  "work_experience": [
+    {
+      "position": "Lead Python Backend Engineer",
+      "company": "Touchapp, Istanbul",
+      "duration": "Jun 2023 – Present",
+      "responsibilities": [
+        "Architected and optimized **high-availability** backend infrastructure, reducing deployment time by **40%** through CI/CD implementation with **Docker and Kubernetes**.",
+        "Increased **system reliability** and reduced downtime by **25%**, serving over **100,000 active users** through **auto-scaling infrastructure**.",
+        "Maintained **99.9% system uptime**, implementing proactive **monitoring, alerting**, and **incident response workflows**.",
+        "Developed **RESTful APIs** using Django REST Framework (DRF) and FastAPI to support **low-latency microservices**.",
+        "Led development of a dynamic **email automation system** using AWS SES, Pinpoint, and Celery, reducing **manual processing time by 50%**.",
+        "Implemented **GraphQL API** endpoints for optimized data fetching, improving **frontend performance** by **30%**.",
+        "Designed **real-time event-driven architectures** using **Kafka and Celery**, handling **millions of messages per day**."
+      ]
+    },
+    {
+      "position": "Senior Python Backend Developer",
+      "company": "Realtyna, Remote",
+      "duration": "Sep 2020 – Jun 2023",
+      "responsibilities": [
+        "Led a backend team of **8 engineers**, developing one of the fastest **RESO APIs**, achieving response times under **200ms**.",
+        "Integrated **AWS Lambda, API Gateway, and DynamoDB**, reducing **infrastructure costs by 25%** while supporting **10x traffic growth**.",
+        "Developed **serverless functions** for **automated email and SMS workflows**, reducing manual intervention by **70%**.",
+        "Implemented **SPF, DKIM, and DMARC authentication**, enhancing **email security** and reducing bounce rates by **20%**.",
+        "Increased **test coverage to 90%** using Pytest and Django Test Framework, reducing **production incidents by 35%**.",
+        "Designed and deployed **multi-region API deployments**, reducing **latency by 50%** for global customers."
+      ]
+    },
+    {
+      "position": "Python/Django Developer (Freelance)",
+      "company": "Remote",
+      "duration": "Jan 2015 – Jan 2019",
+      "responsibilities": [
+        "Delivered **20+ backend solutions** across **healthcare, finance, and e-commerce**, achieving a **95% client satisfaction rate**.",
+        "Built **scalable APIs** handling **100,000+ concurrent requests per second**, ensuring **zero downtime during peak loads**.",
+        "Integrated **third-party APIs (Stripe, Twilio, Google OAuth)**, reducing **development time by 30%**.",
+        "Optimized **PostgreSQL and Redis caching**, improving API response times by **40%**.",
+        "Automated **infrastructure provisioning** using **Terraform and AWS CloudFormation**, reducing manual setup time by **80%**."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science, Computer Science",
+    "university": "University of Mazandaran at Babolsar, Mazandaran, Iran",
+    "duration": "Sep 2005 – Jan 2009"
+  },
+  "skills": {
+    "programming_languages": ["Python", "Dart", "PHP", "Django", "FastAPI"],
+    "frameworks": ["Django", "FastAPI", "Flask", "Flutter"],
+    "libraries": ["SQLAlchemy", "Graphene", "Boto3", "Requests", "WebSockets", "AsyncIO", "Authlib", "PyJWT", "Pytest", "Unittest", "NumPy", "Pandas"],
+    "backend": ["Microservices Architecture", "RESTful APIs", "Event-Driven Systems", "Test Automation", "GraphQL"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis", "DynamoDB"],
+    "cloud_computing": ["AWS Lambda", "AWS S3", "AWS Cognito", "AWS API Gateway", "AWS IAM"],
+    "CI_CD": ["CI/CD Pipelines", "Docker", "Kubernetes", "Terraform", "Jenkins", "GitHub Actions"],
+    "tools": ["Celery", "Kafka", "RabbitMQ", "ElasticSearch"],
+    "email_and_cloud": ["AWS SES", "AWS Pinpoint", "SendGrid", "SMTP Configuration"],
+    "security": ["OAuth2", "JWT Authentication", "SPF/DKIM/DMARC", "SSL/TLS"],
+    "monitoring": ["Prometheus", "Grafana", "New Relic", "Sentry"],
+    "frontend_basics": ["HTML/CSS"]
+  },
+  "languages": ["English (Fluent)", "Persian (Native)"]
+}
